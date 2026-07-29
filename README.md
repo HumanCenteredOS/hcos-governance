@@ -314,3 +314,17 @@ Stewardship preserves purpose.
 Governship unites them.
 
 Together they create the conditions under which trustworthy knowledge can continue to grow.
+
+# The HCOS Governship Covenant
+
+HCOS™ exists to steward knowledge in service of people.
+
+Governship protects both institutional integrity and human purpose by integrating governance and stewardship into a single, continuous practice.
+
+Every governance process, standard, decision, review, and implementation should ultimately strengthen human dignity, promote truthful understanding, preserve meaningful agency, and create conditions in which people and human systems can continue to learn and flourish.
+
+Governance protects today's integrity.
+
+Stewardship protects tomorrow's purpose.
+
+Governship unites them.
