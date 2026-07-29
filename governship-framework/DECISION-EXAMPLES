@@ -1,0 +1,194 @@
+---
+title: "HCOS™ Decision Examples"
+document_id: HCOS-E-401
+category: Governship Examples
+status: Draft
+version: 1.0.0
+last_updated: July 2026
+---
+
+# HCOS™ Decision Examples
+
+## Purpose
+
+These simplified examples show how the HCOS™ Decision Approach may be applied across different human systems.
+
+## Example 1 — Healthcare
+
+### Situation
+
+A hospital experiences an increase in delayed medication administration after implementing a new electronic health record workflow.
+
+### Analysis
+
+- What changed?
+- Was adequate training provided?
+- Did workflow design contribute?
+- Were staffing levels appropriate?
+- Did the technology introduce new complexity?
+
+### Accountability
+
+- Who approved the workflow?
+- Who was responsible for implementation?
+- Did clinicians receive adequate support?
+- Were expectations reasonable?
+
+### Stewardship
+
+- Simplify the workflow.
+- Improve training.
+- Monitor medication timing.
+- Gather clinician feedback.
+- Preserve successful workflow elements.
+
+## Example 2 — Artificial Intelligence
+
+### Situation
+
+An AI system recommends an incorrect clinical action that a healthcare professional identifies before it reaches the patient.
+
+### Analysis
+
+- Why did the recommendation occur?
+- Was context missing?
+- Did the system have sufficient information?
+- Were confidence levels communicated?
+- Were workflow assumptions valid?
+
+### Accountability
+
+- Who approved deployment?
+- Who maintains the system?
+- What human oversight was expected?
+- Were governance requirements followed?
+
+### Stewardship
+
+- Improve validation.
+- Refine governance.
+- Update implementation guidance.
+- Improve user education.
+- Strengthen monitoring.
+
+## Example 3 — Leadership
+
+### Situation
+
+Employee engagement scores decline after organizational restructuring.
+
+### Analysis
+
+- What concerns are employees expressing?
+- How has communication changed?
+- Were workloads redistributed?
+- Were managers adequately supported?
+
+### Accountability
+
+- Who approved the restructuring?
+- Were expectations communicated?
+- Were managers given appropriate authority?
+
+### Stewardship
+
+- Improve communication.
+- Review workload distribution.
+- Increase leadership visibility.
+- Reassess organizational support.
+
+## Example 4 — Technology
+
+### Situation
+
+A new software platform is delivered on schedule, but adoption remains low.
+
+### Analysis
+
+- Was the technology solving the right problem?
+- Were users involved in design?
+- Was implementation adequately supported?
+
+### Accountability
+
+- Who defined success?
+- Were responsibilities clear?
+- Were resources adequate?
+
+### Stewardship
+
+- Increase user participation.
+- Simplify workflows.
+- Improve onboarding.
+- Monitor adoption.
+
+## Example 5 — Education
+
+### Situation
+
+Students perform well on standardized assessments but report feeling disconnected from learning.
+
+### Analysis
+
+- What measures define success?
+- Are current metrics capturing meaningful learning?
+- Have student perspectives been considered?
+
+### Accountability
+
+- Who establishes priorities?
+- How are teachers supported?
+- Are expectations realistic?
+
+### Stewardship
+
+- Expand measures of learning.
+- Increase student engagement.
+- Preserve successful teaching practices.
+
+## Example 6 — Business
+
+### Situation
+
+A company introduces aggressive productivity targets that improve short-term performance but increase employee turnover.
+
+### Analysis
+
+- What incentives influenced behavior?
+- Did metrics create unintended consequences?
+- Were employee perspectives considered?
+
+### Accountability
+
+- Who established the targets?
+- Were managers given flexibility?
+- Did expectations align with resources?
+
+### Stewardship
+
+- Reevaluate metrics.
+- Balance productivity with sustainability.
+- Improve feedback mechanisms.
+- Monitor workforce well-being.
+
+## Common Pattern
+
+```text
+Understand Before You Judge
+↓
+Analysis
+Why did this happen?
+↓
+Accountability
+Who is responsible for what happens next?
+↓
+Stewardship
+How should the system improve?
+```
+
+## Related Resources
+
+- [Explore the HCOS™ Decision Approach](../website/governship/resources/decision-approach.md)
+- [HCOS™ Decision Guide](HCOS_Decision_Guide.md)
+- [HCOS™ Decision Worksheet](HCOS_Decision_Worksheet.md)
+- [HCOS™ Decision Checklist](HCOS_Decision_Checklist.md)
