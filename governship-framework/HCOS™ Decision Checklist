@@ -1,0 +1,131 @@
+---
+title: "HCOS™ Decision Checklist"
+document_id: HCOS-C-401
+category: Governship Checklist
+status: Draft
+version: 1.0.0
+last_updated: July 2026
+---
+
+# HCOS™ Decision Checklist
+
+## Purpose
+
+Use this checklist before finalizing significant decisions, implementing organizational changes, reviewing incidents, adopting technologies, or approving governance actions.
+
+## Decision Classification
+
+### Decision Type
+
+- [ ] Strategic
+- [ ] Operational
+- [ ] Clinical
+- [ ] AI Governance
+- [ ] Financial
+- [ ] Policy
+- [ ] Human Resources
+- [ ] Technology
+- [ ] Quality Improvement
+- [ ] Other: ______________________
+
+### Decision Impact
+
+- [ ] Low
+- [ ] Moderate
+- [ ] High
+- [ ] Critical
+
+### Review Level
+
+- [ ] Individual
+- [ ] Team
+- [ ] Leadership
+- [ ] Executive
+- [ ] Governing Body
+
+## HCOS™ Decision Pattern
+
+```text
+Understand Before You Judge
+✓ Purpose
+✓ Analysis
+↓
+Assign Responsibility Fairly
+✓ Accountability
+↓
+Strengthen the System
+✓ Stewardship
+✓ Transparency
+✓ Continuous Learning
+```
+
+# 1. Understand
+
+## Purpose
+
+- [ ] Is the purpose clearly defined?
+- [ ] Does the decision support the organization's mission and values?
+- [ ] Have we identified who may be affected?
+- [ ] Have we considered short- and long-term impacts?
+
+## Analysis
+
+- [ ] Do we understand what happened?
+- [ ] Have we separated evidence from assumptions?
+- [ ] Have we identified uncertainty?
+- [ ] Have we considered system factors?
+- [ ] Have we gathered appropriate perspectives?
+- [ ] Have we considered unintended consequences?
+
+# 2. Assign Responsibility Fairly
+
+## Accountability
+
+- [ ] Is decision-making authority clearly identified?
+- [ ] Do responsibilities match authority?
+- [ ] Were adequate resources available?
+- [ ] Were expectations reasonable?
+- [ ] Has accountability been communicated?
+- [ ] Have implementation responsibilities been assigned?
+
+# 3. Strengthen the System
+
+## Stewardship
+
+- [ ] Have we identified opportunities for improvement?
+- [ ] Have we considered what should remain unchanged?
+- [ ] Have we preserved valuable knowledge?
+- [ ] Have we documented the rationale?
+- [ ] Have we identified how success will be monitored?
+
+## Transparency
+
+- [ ] Could someone unfamiliar with the decision understand why it was made?
+- [ ] Is supporting evidence documented?
+- [ ] Are assumptions identified?
+- [ ] Is the reasoning transparent?
+- [ ] Can the decision be reviewed later?
+
+## Continuous Learning
+
+- [ ] What have we learned?
+- [ ] What should improve?
+- [ ] What should be preserved?
+- [ ] What should future leaders inherit?
+- [ ] When will this decision be reviewed?
+
+## Final Reflection
+
+- Have we sought understanding before judgment?
+- Does accountability match authority?
+- Does this decision respect human dignity?
+- Have affected perspectives been considered?
+- Does this decision strengthen trust?
+- Will future leaders understand why it was made?
+
+## Related Resources
+
+- [Explore the HCOS™ Decision Approach](../website/governship/resources/decision-approach.md)
+- [HCOS™ Decision Guide](HCOS_Decision_Guide.md)
+- [HCOS™ Decision Worksheet](HCOS_Decision_Worksheet.md)
+- [HCOS™ Decision Examples](HCOS_Decision_Examples.md)
