@@ -1,8 +1,10 @@
 # HCOS™ Governship Framework
 
-**Status:** Version 1.2.0 — Draft  
+**Status:** Version 1.3.0 — Draft  
 **Applies to:** Human-Centered Operating Systems™ (HCOS™)  
 **Purpose:** To define how HCOS™ is guided, protected, developed, reviewed, and responsibly carried forward over time.
+
+**Version 1.3.0 addition:** Narrative stewardship, story integrity, affected-person meaning, and the HCOS™ Storyteller Governship Lens.
 
 **Version 1.2.0 addition:** Outcome stewardship, external-access governance, capability stewardship, and a companion-instrument expansion pathway.
 
@@ -303,6 +305,43 @@ Human review is not meaningful when people lack the authority, competence, infor
 
 > **A workflow is only as sustainable as the human and organizational capability surrounding it.**
 
+### 5.15 Narrative Stewardship and Story Integrity
+
+Governship must preserve more than events, decisions, and measurements.
+
+It must also preserve the human meaning of what occurred, how different people experienced the system, what context shaped the outcome, and whose perspective may have been omitted.
+
+The storyteller function within HCOS™ is not used to replace evidence with anecdote or to make governance more emotionally persuasive.
+
+It is used to prevent systems from reducing people to:
+
+- transactions
+- cases
+- metrics
+- errors
+- claims
+- roles
+- diagnoses
+- productivity units
+- isolated workflow events
+
+Narrative stewardship should:
+
+- honor the person or community whose experience is being represented
+- distinguish documented fact, first-person account, interpretation, and HCOS™ synthesis
+- preserve chronology, context, relationships, uncertainty, and disagreement
+- connect individual experience with the system conditions that shaped it
+- reveal how the same workflow may be experienced differently by different stakeholders
+- identify voices that are missing, minimized, or structurally excluded
+- protect consent, privacy, dignity, and the right to correct misrepresentation
+- preserve stories of harm, recovery, learning, and improvement
+- resist the use of narrative to manipulate, stigmatize, romanticize, or justify power
+- ensure that affected people remain recognizable as whole human beings
+
+A story should inform governship, but it should not substitute for evidence, law, professional standards, or transparent reasoning.
+
+> **Data can show that something happened. Story helps the system understand what the event meant, who carried it, and what must not be forgotten.**
+
 ---
 
 ## 6. Governship Responsibilities
@@ -424,6 +463,24 @@ For work extending across organizational boundaries:
 - Preserve institutional memory.
 - Support continuity across leadership and contributor changes.
 
+### 6.12 Storyteller and Narrative Stewardship
+
+For consequential decisions, system reviews, incidents, redesigns, and publications:
+
+- identify whose experience must be heard
+- preserve the sequence of events and relevant context
+- distinguish verified evidence from recollection, interpretation, and synthesis
+- map how different stakeholders experienced the same system
+- identify missing, silenced, or underrepresented perspectives
+- connect personal experience to workflow, policy, authority, resources, incentives, and system conditions
+- preserve disagreement and uncertainty rather than manufacturing a single clean narrative
+- obtain consent and protect privacy when personal stories are used
+- return the emerging narrative to affected people for correction or validation when feasible
+- prevent stories from being used as substitutes for evidence or as tools of manipulation
+- preserve lessons that should inform future decisions, design, education, and stewardship
+
+The storyteller function should help the system remember the human truth of its decisions without sacrificing evidentiary rigor.
+
 ---
 
 ## 7. Governship Decision Process
@@ -437,6 +494,8 @@ Clarify:
 - the problem
 - the human purpose
 - the people affected
+- how affected people describe and experience the situation
+- whose perspective is missing or difficult to hear
 - the relevant system boundary
 - the type of knowledge or resource involved
 
@@ -454,6 +513,9 @@ Examine:
 - whether measures reflect meaningful outcomes and lead to action
 - external dependencies, access controls, exclusions, and cross-boundary responsibility
 - workforce, cultural, research, and questioning capability
+- competing stakeholder narratives and differences in lived experience
+- the chronology, context, and relationships needed to understand the event
+- whether the dominant narrative reflects institutional power more than human truth
 - architectural fit
 - long-term stewardship needs
 
@@ -475,6 +537,8 @@ Record:
 - the rationale
 - evidence considered
 - alternatives considered
+- affected-person and frontline perspectives considered
+- important disagreement, chronology, and context
 - unresolved uncertainty
 - responsible owner
 - review date or review trigger
@@ -499,12 +563,15 @@ Evaluate:
 - meaningful outcomes and whether findings lead to action
 - access, exclusion, handoff, reimbursement, and cross-boundary failures
 - workforce capability, psychological safety, learning capacity, and knowledge continuity
+- qualitative accounts of how people experience the system
+- recurring stories that may reveal hidden burden, exclusion, confusion, or harm
+- differences between the official process narrative and lived experience
 - unintended consequences
 - implementation failures
 
 ### Step 7 — Learn
 
-Use findings, feedback, incidents, and new evidence to improve the resource or system.
+Use findings, feedback, incidents, new evidence, lived experience, and preserved system stories to improve the resource or system.
 
 ### Step 8 — Revise, Preserve, or Retire
 
@@ -573,6 +640,22 @@ Has authority to approve, reject, revise, pause, archive, or retire a resource.
 ### Community or Affected-Person Voice
 
 Provides lived, frontline, user, patient, worker, or community perspective when the work may affect those groups.
+
+### Story Steward or Narrative Reviewer
+
+Protects the integrity of how human experience is gathered, interpreted, connected, documented, and preserved.
+
+The Story Steward:
+
+- ensures people are not reduced to system labels or metrics
+- distinguishes evidence, testimony, interpretation, and synthesis
+- identifies missing voices and narrative distortion
+- preserves chronology, context, disagreement, and meaning
+- supports consent, privacy, dignity, and affected-person correction
+- connects individual experience with system conditions without erasing personal agency
+- helps preserve lessons for future learning and stewardship
+
+The Story Steward does not control another person’s story and should not speak over affected people.
 
 Roles should be assigned according to the nature and risk of the work rather than title alone.
 
@@ -660,6 +743,20 @@ Evaluates access, exclusion, limited distribution, network participation, data s
 
 Evaluates whether workforce capacity, culture, knowledge, research quality, questioning protections, and long-term support are sufficient to sustain the method or workflow.
 
+### 12.4 Storyteller Governship Lens
+
+Evaluates whether a governship review preserves lived experience, chronology, context, stakeholder differences, missing voices, narrative integrity, and the meaning needed for responsible learning.
+
+The Storyteller Governship Lens should be applied when:
+
+- a decision materially affects people or communities
+- a workflow crosses multiple teams or organizations
+- metrics may conceal burden or harm
+- an incident or near miss requires system learning
+- conflicting accounts must be understood without erasing disagreement
+- a case will be used for education, policy, improvement, or public communication
+- affected people may be reduced to labels, transactions, or compliance categories
+
 > **Not every new insight requires replacing the core method. Responsible governship may preserve the center while building the supporting structures required to make it usable, accountable, and sustainable.**
 
 ---
@@ -699,6 +796,11 @@ Additional artifacts may be added as the ecosystem grows, including:
 - outcome stewardship instruments and action registers
 - external-access governance maps and cross-boundary responsibility matrices
 - capability stewardship assessments and continuity plans
+- stakeholder story maps
+- system story records
+- narrative evidence registers
+- affected-person validation or correction records
+- incident and recovery narratives
 - stewardship review schedules
 
 ---
@@ -717,21 +819,32 @@ Before approving or materially changing an HCOS™ resource, ask:
 8. Who has authority to approve it?
 9. Who will be accountable for its use and maintenance?
 10. What human judgment must remain?
-11. Do the selected measures reflect meaningful outcomes rather than activity alone?
-12. Who must interpret the findings, act upon them, and evaluate whether the response helped?
-13. What access, exclusion, network, data-sharing, reimbursement, or external-partner conditions shape the outcome?
-14. Does accountability remain visible across every organizational boundary and handoff?
-15. Are workforce, cultural, research, technical, and questioning capabilities sufficient to sustain the work?
-16. Can people raise concerns, challenge assumptions, and escalate risk without retaliation?
-17. How could this process, authority, or protective mechanism be misused?
-18. Who bears the cost when the system is wrong?
-19. How will affected people appeal, obtain correction, or be restored?
-20. How will suspicious patterns, repeated targeting, or coordinated misuse be detected?
-21. How will concerns or harm be escalated?
-22. How will effectiveness and unintended consequences be monitored?
-23. Does new evidence require revision of the core method or a companion-instrument expansion?
-24. What would cause revision, restriction, suspension, or retirement?
-25. Who will steward it over time?
+11. Whose story is being told?
+12. Who is telling the story, and what authority or perspective do they hold?
+13. Whose voice, experience, or meaning is missing?
+14. Can affected people recognize themselves accurately and respectfully in the account?
+15. Have documented fact, first-person account, interpretation, and HCOS™ synthesis been clearly distinguished?
+16. What chronology, relationships, and system context are required to understand what happened?
+17. How do different stakeholders experience the same workflow or decision?
+18. Has disagreement or uncertainty been preserved rather than flattened into false consensus?
+19. Could the narrative be distorted to protect institutional power, assign blame, create stigma, or manipulate emotion?
+20. Were consent, privacy, dignity, and correction rights protected?
+21. Do the selected measures reflect meaningful outcomes rather than activity alone?
+22. Who must interpret the findings, act upon them, and evaluate whether the response helped?
+23. What access, exclusion, network, data-sharing, reimbursement, or external-partner conditions shape the outcome?
+24. Does accountability remain visible across every organizational boundary and handoff?
+25. Are workforce, cultural, research, technical, storytelling, and questioning capabilities sufficient to sustain the work?
+26. Can people raise concerns, challenge assumptions, and escalate risk without retaliation?
+27. How could this process, authority, protective mechanism, or narrative be misused?
+28. Who bears the cost when the system is wrong?
+29. How will affected people appeal, obtain correction, or be restored?
+30. How will suspicious patterns, repeated targeting, recurring stories, or coordinated misuse be detected?
+31. How will concerns or harm be escalated?
+32. How will effectiveness, human experience, and unintended consequences be monitored?
+33. Does new evidence or lived experience require revision of the core method or a companion-instrument expansion?
+34. What story, lesson, warning, or meaning must be preserved for future stewards?
+35. What would cause revision, restriction, suspension, or retirement?
+36. Who will steward it over time?
 
 ---
 
@@ -751,11 +864,11 @@ Governship practices are consistently used in repositories, decisions, reviews, 
 
 ### Level 4 — Learning
 
-Feedback, evidence, incidents, meaningful outcomes, external-partner performance, workforce capability, and human experience are used to improve the governship system.
+Feedback, evidence, incidents, meaningful outcomes, external-partner performance, workforce capability, preserved stories, and human experience are used to improve the governship system.
 
 ### Level 5 — Stewarded
 
-HCOS™ remains transparent, participatory, coherent, evidence-aware, outcome-oriented, capable across organizational boundaries, adaptive, and intentionally protected across changes in people, technology, workforce, and context.
+HCOS™ remains transparent, participatory, coherent, evidence-aware, outcome-oriented, narratively responsible, capable across organizational boundaries, adaptive, and intentionally protected across changes in people, technology, workforce, and context.
 
 ---
 
@@ -772,6 +885,8 @@ It ensures that HCOS™ remains:
 - coherent
 - accountable
 - transparent
+- attentive to lived experience
+- protective of story integrity
 - teachable
 - adaptable
 - worthy of trust
@@ -786,5 +901,6 @@ It ensures that HCOS™ remains:
 
 Every major governship review should conclude by asking:
 
-> **What must HCOS™ protect, preserve, measure, connect, strengthen, learn, or change so that it remains worthy of the people who depend upon it?**
+> **Whose story must remain visible, and what must HCOS™ protect, preserve, measure, connect, strengthen, learn, or change so that it remains worthy of the people who depend upon it?**
+
 
