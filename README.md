@@ -1,3 +1,27 @@
+# HCOS™ Governship Expansion
+
+This package contains the HCOS™ Governship Framework and three companion instruments added through the Version 1.2.0 expansion.
+
+## Files
+
+- `GOVERNSHIP.md`
+- `instruments/HCOS_Outcome_Stewardship_Instrument.md`
+- `instruments/HCOS_External_Access_Governance_Instrument.md`
+- `instruments/HCOS_Capability_Stewardship_Instrument.md`
+- `change-log/CHANGELOG.md`
+
+## Architectural Addition
+
+The expansion recognizes three responsibilities that may be missed when governance focuses only on an internal workflow:
+
+1. **Outcome Stewardship** — Are meaningful outcomes measured, interpreted, and acted upon?
+2. **External-Access Governance** — Does accountability remain visible across organizational boundaries?
+3. **Capability Stewardship** — Can the workforce, culture, research process, and support system sustain the work responsibly?
+
+The framework also establishes a minor-version companion-instrument pathway when new evidence reveals missing layers but does not invalidate the core method.
+
+
+
 # HCOS™ Governance
 
 **Repository:** hcos-governance
