@@ -1,3 +1,22 @@
+## [1.3.0] — 2026-07-29
+
+### Added
+
+- Narrative Stewardship and Story Integrity as a core governship principle
+- Storyteller and Narrative Stewardship as a governship responsibility
+- Story Steward or Narrative Reviewer as a functional role
+- HCOS™ Storyteller Governship Lens
+- Storyteller review questions covering voice, chronology, context, consent, missing perspectives, disagreement, and narrative misuse
+- Story-related governship artifacts, including stakeholder story maps, system story records, narrative evidence registers, affected-person validation records, and incident or recovery narratives
+- Narrative and lived-experience considerations throughout the governship decision process and maturity model
+
+### Changed
+
+- Expanded the governship decision process to include affected-person experience, missing voices, stakeholder narratives, system stories, and qualitative monitoring
+- Expanded the final stewardship question to ask whose story must remain visible
+- Updated framework status to Version 1.3.0 — Draft
+
+
 # Changelog
 
 All notable changes to the HCOS™ Governship Framework are documented here.
