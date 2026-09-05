@@ -1,3 +1,34 @@
+# README Addition — Human Sensor and Narrative Stewardship
+
+Add this section to `governship-framework/README.md`.
+
+---
+
+## Human Sensor and Narrative Stewardship
+
+HCOS™ Governship treats human observations, dissent, and lived experience as part of the system's sensing architecture.
+
+Version 1.4.0 adds:
+
+- Human Sensor Protection
+- Institutional Memory
+- Governship Response to Failure
+- Human-Sensor and Signal Stewardship
+- Process Integrity Test
+- Storyteller–Governship Principle
+
+These additions help HCOS™ distinguish ordinary error from a deeper governship failure: the inability of a system to responsibly receive, preserve, investigate, learn from, and adapt to an uncomfortable human signal.
+
+### Companion Lens
+
+- [HCOS™ Storyteller Governship Lens](instruments/HCOS_Storyteller_Governship_Lens.md)
+
+### Core Question
+
+> **When a person's story contradicts the system's story, does the institution protect its existing narrative—or become curious enough to discover what the human may be showing it?**
+
+
+
 # HCOS™ Governship Expansion
 
 This package contains the HCOS™ Governship Framework and three companion instruments added through the Version 1.2.0 expansion.
