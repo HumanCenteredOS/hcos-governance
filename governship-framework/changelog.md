@@ -1,3 +1,31 @@
+# CHANGELOG Addition — Version 1.4.0
+
+## [1.4.0] — Human Sensor and Narrative Stewardship Expansion
+
+### Added
+
+- Human Sensor Protection as a core governship principle
+- Institutional Memory as a core governship principle
+- Governship Response to Failure distinction
+- Human-Sensor and Signal Stewardship responsibilities
+- Process Integrity Test with fear and stewardship pathways
+- Additional Story and Signal review questions
+- Storyteller–Governship Principle
+- Human Sensor and Process Integrity extension to the Storyteller Governship Lens
+
+### Clarified
+
+- Error is not automatically a governship failure.
+- Governance failure reflects inadequate controls.
+- Governship failure occurs when the system cannot responsibly receive, preserve, interpret, investigate, protect, learn from, or adapt to information revealed by failure.
+- Human beings who detect failure may function as part of the safety architecture.
+- Institutional narratives should remain challengeable by evidence, frontline observation, affected-person experience, and dissent.
+
+### Stewardship Principle
+
+> **Failure itself is not the opposite of governship. The inability to responsibly encounter failure is.**
+
+
 ## [1.3.0] — 2026-07-29
 
 ### Added
